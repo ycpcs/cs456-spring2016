@@ -18,7 +18,7 @@ All information about the course will be posted here.
 ## News
 
 * **Jan 21** - Welcome back!
-
+* **Jan 26 - NO CLASS, INCLEMENT WEATHER**
 
 
 <!--
