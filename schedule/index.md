@@ -20,6 +20,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Feb 2   |                 | **NO CLASS** |
 > Feb 4   |                 | **NO CLASS** |
 > Feb 9   | Liability       | *Software Needs Seatbelts and Airbags*, Emery D. Berger (ACM - 9/12) <br /> *Responsible Programming*, Vinton G. Cerf (ACM - 7/14) <br /> *Responsible Programming Not a Technical Issue*, James Larus (ACM - 10/14) <br /> *Towards More Secure Software* Dorothy E. Denning (ACM - 4/15) |
+> Feb 11  | IP - Copyrights | *Intellectual Property, Part I*, Gaff, Loren, and McCool (IEEE - 1/12) <br /> *Statutory Damages As a Threat to Innovation*, Pamela Samuelson (ACM - 7/13) <br /> *Copyrightability of Java APIs Revisited*, Pamela Samuelson (ACM - 3/15) |
 
 
 
