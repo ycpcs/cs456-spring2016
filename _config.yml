@@ -4,4 +4,4 @@ description: ""
 url: "http://ycpcs.github.io/cs456-spring2016"
 
 markdown: kramdown
-highlighter: pygments
+highlighter: rouge
