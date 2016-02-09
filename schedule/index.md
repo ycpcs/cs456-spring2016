@@ -5,7 +5,7 @@ title: "CS456 Course Schedule - Spring 2016"
 
 This page provides a tentative schedule for the course.
 
-All reading materials can be accessed via [Schmidt Library](http://library.ycp.edu/home>).
+All reading materials can be accessed via [Schmidt Library](http://library.ycp.edu/home).
 
 -   For articles in **IEEE Computer**, select *Subject Guides*, *Engineering*, and *IEEE Xplore*.
 
