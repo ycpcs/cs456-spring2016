@@ -23,7 +23,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Feb 11  | IP - Copyrights | *Intellectual Property, Part I*, Gaff, Loren, and McCool (IEEE - 1/12) <br /> *Statutory Damages As a Threat to Innovation*, Pamela Samuelson (ACM - 7/13) <br /> *Copyrightability of Java APIs Revisited*, Pamela Samuelson (ACM - 3/15) |
 > Feb 16  | IP - Patents    | *Is Software Patentable?*, Pamela Samuelson (ACM - 11/13) <br /> *Why Do Software Startups Patent (or Not)?*, Pamela Samuelson (ACM - 11/10) <br/> *The Troll Under the Bridge*, Brian M. Gaff (IEEE - 7/13) <br /> *Software Patents Are Falling Down*, Pamela Samuelson (ACM - 11/15) |
 > Feb 18  |                 | **EXAM I Discussion** |
-> Feb 23  |                 | **EXAM I Writeup** |
+> Feb 23  |                 | **EXAM I Due** |
 
 
 
