@@ -21,6 +21,8 @@ All information about the course will be posted here.
 * **Jan 26 - NO CLASS, INCLEMENT WEATHER**
 * **Feb 2 - NO CLASS**
 * **Feb 4 - NO CLASS**
+* **Feb 18** - Exam 1a Discussion
+* **Feb 23 - Exam 1a Due**
 
 <!--
 * **Feb 10** - Exam 1a Discussion
