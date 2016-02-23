@@ -24,6 +24,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Feb 16  | IP - Patents    | *Is Software Patentable?*, Pamela Samuelson (ACM - 11/13) <br /> *Why Do Software Startups Patent (or Not)?*, Pamela Samuelson (ACM - 11/10) <br/> *The Troll Under the Bridge*, Brian M. Gaff (IEEE - 7/13) <br /> *Software Patents Are Falling Down*, Pamela Samuelson (ACM - 11/15) |
 > Feb 18  |                 | **EXAM I Discussion** |
 > Feb 23  |                 | **EXAM I Due** |
+> Feb 25  | Privacy - I     | *The Tangled Web We Have Woven*, Eben Moglen (ACM - 2/13) <br /> *Privacy Behaviors After Snowden*, Soren Preibusch (ACM - 5/15) <br /> [Apple Fights Order to Unlock San Bernardino Gunman's Phone](http://www.nytimes.com/2016/02/18/technology/apple-timothy-cook-fbi-san-bernardino.html?_r=0) | 
 
 
 
