@@ -26,6 +26,8 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Feb 23  |                 | **EXAM I Due** |
 > Feb 25  | Privacy - I     | *The Tangled Web We Have Woven*, Eben Moglen (ACM - 2/13) <br /> *Privacy Behaviors After Snowden*, Soren Preibusch (ACM - 5/15) <br /> [Apple Fights Order to Unlock San Bernardino Gunman's Phone](http://www.nytimes.com/2016/02/18/technology/apple-timothy-cook-fbi-san-bernardino.html?_r=0) | 
 > Mar 8   | Privacy - II    | *A Right to Be Forgotten*, Lee A. Bygrave (ACM - 1/15) <br /> *Can You Engineer Privacy?*, Seda Gurses (ACM - 8/14) <br /> *Privacy Research Directions*, Carl Landwehr (ACM - 2/16) | 
+> Mar 10  | Security - I    | *Security or Privacy? A Matter of Perspective*, George Hurlburt, Irena Bojanova, Ann Sobel, and Keesha Crosby (IEEE - 11/14) <br /> *Privacy and Security: Summing Up*, Susan Landau (ACM - 11/14) <br /> *Secure-System Designers Strive to Stem Data Leaks*, Chris Edwards (ACM - 4/15) |
+> Mar 15  | Security - II   | *Security Outlook: Six Cyber Game Changers for the Next 15 Years*, Alexander Kott, Ananthram Swami, and Patrick McDaniel (IEEE - 12/14) <br /> *Security Assurance*, Steven B. Lipner (ACM - 11/15) <br /> *I Can't Let You Do That, Dave*, Cory Doctorow (ACM - 12/15)|  
 
 
 
