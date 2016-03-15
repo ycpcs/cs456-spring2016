@@ -30,6 +30,14 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Mar 15  | Security - II   | *Security Outlook: Six Cyber Game Changers for the Next 15 Years*, Alexander Kott, Ananthram Swami, and Patrick McDaniel (IEEE - 12/14) <br /> *Security Assurance*, Steven B. Lipner (ACM - 11/15) <br /> *I Can't Let You Do That, Dave*, Cory Doctorow (ACM - 12/15)|  
 > Mar 17  | Government      | [Big Brother? US linked to new wave of censorship, surveillance on web](http://www.foxnews.com/tech/2013/02/27/special-report-surveillance-and-censorship-america/) <br /> *Overt Censorship: A Fatal Mistake?*, Jean-Loup Richet (ACM - 8/13) <br /> *Moral Hazards, Negative Externalities, and the Surveillance Economy*, Hal Berghel (IEEE - 2/14)|  
 > Mar 22  | Internet        | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Does the Internet Make Us Stupid?*, Hermann Maurer (ACM - 1/15)  <br /> *Internet Use and Psychological Well-Being: Effects of Activity and Audience*, Robert Kraut and Moira Burke (ACM - 12/15) |  
+> Apr 5   | Chris Yealy - Free Software  <br /> <br /> Dan Muckerman | |  
+> Apr 7   | Martin Dichmann-Schmidt - Autonomous Cars <br /> <br /> Garlan Bowser | |  
+> Apr 12  | Austin Decker - Artificial Intelligence <br /> <br /> Austin Koehler | |  
+> Apr 14  | David Visco - Apple Privacy <br /> <br /> Ryan Hammett | |  
+> Apr 19  | Austin Forry - Intellectual Property Rights <br /> <br /> Michael Trupia | |  
+> Apr 21  | Juan Salazar - Digital Rights Management <br /> <br /> Michael Fioravanti | |  
+> Apr 26  | Ben Coover - Blizzard Entertainment | |  
+> Apr 28  | Dan Mashuda - Product Liability <br /> <br /> Tyler Yonkins | |  
 
 
 
