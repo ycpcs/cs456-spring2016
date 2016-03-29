@@ -23,6 +23,12 @@ All information about the course will be posted here.
 * **Feb 4 - NO CLASS**
 * **Feb 18** - Exam 1a Discussion
 * **Feb 23 - Exam 1a Due**
+* **Mar 24 - NO CLASS, EASTER BREAK**
+* **Mar 29** - Exam 1b Discussion
+* **Mar 31 - Exam 1b Due**
+* **May 3** - Exam 2 Discussion
+* **May 6 - Exam 2 Due by 5pm**
+* **May 11 - Final Report Due by 11:59pm**
 
 <!--
 * **Feb 10** - Exam 1a Discussion
