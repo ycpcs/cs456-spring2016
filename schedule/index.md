@@ -31,7 +31,7 @@ All reading materials can be accessed via [Schmidt Library](http://library.ycp.e
 > Mar 17  | Government      | [Big Brother? US linked to new wave of censorship, surveillance on web](http://www.foxnews.com/tech/2013/02/27/special-report-surveillance-and-censorship-america/) <br /> *Overt Censorship: A Fatal Mistake?*, Jean-Loup Richet (ACM - 8/13) <br /> *Moral Hazards, Negative Externalities, and the Surveillance Economy*, Hal Berghel (IEEE - 2/14)|  
 > Mar 22  | Internet        | *Access to the Internet is a Human Right*, Stephen Wicker and Stephanie Santoso (ACM - 6/13) <br /> *Does the Internet Make Us Stupid?*, Hermann Maurer (ACM - 1/15)  <br /> *Internet Use and Psychological Well-Being: Effects of Activity and Audience*, Robert Kraut and Moira Burke (ACM - 12/15) |  
 > Apr 5   | Chris Yealy - Free Software  <br /> <br /> Dan Muckerman | |  
-> Apr 7   | Martin Dichmann-Schmidt - Autonomous Cars <br /> <br /> Garlan Bowser | |  
+> Apr 7   | Martin Dichmann-Schmidt - Autonomous Cars <br /> <br /> Garlan Bowser | [Will Self-Driving Cars Change the Rules of the Road?](http://ideas.time.com/2013/01/14/will-self-driving-cars-change-the-rules-of-the-road/) <br /> [Controversy and intrigue fuel conversation around Google's self-driving car](https://www.proopinion.com/en/blog/controversy-and-intrigue-fuel-conversation-around-googles-selfdriving-car)|  
 > Apr 12  | Austin Decker - Artificial Intelligence <br /> <br /> Austin Koehler | |  
 > Apr 14  | David Visco - Apple Privacy <br /> <br /> Ryan Hammett | |  
 > Apr 19  | Austin Forry - Intellectual Property Rights <br /> <br /> Michael Trupia | |  
